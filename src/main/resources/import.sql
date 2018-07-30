@@ -1,0 +1,1 @@
+insert into usuario (id,username,password) values(nextval('HIBERNATE_SEQUENCE'),'bangomc@gmail.com','$2a$10$ZuDJAzTgwEjE5jql4i33P.KjpfL.L1BPrsU.bf9tTA59YpbZZA0Ri');
